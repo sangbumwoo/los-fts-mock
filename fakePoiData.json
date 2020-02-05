@@ -1,0 +1,113 @@
+[{
+        "provider": "SKT",
+        "providerId": "99",
+        "providerPOIid": "276u284p-16fb6da81d0d46c38765f11682972249",
+        "id": -1,
+        "name": "스테이트타워 남산",
+        "address": {
+            "street": "중구 퇴계로 100 스테이트타워 남산",
+            "intersectingStreets": [],
+            "houseNumber": null,
+            "postalCode": "80805",
+            "city": "서울",
+            "country": "대한민국",
+            "countryCode": "KR",
+            "region": "서울특별시",
+            "regionCode": null,
+            "settlement": null
+        },
+        "latitude": 126.980744,
+        "longitude": 37.5602013,
+        "entrances": [{
+            "name": null,
+            "clearance": null,
+            "latitude": 126.980744,
+            "longitude": 37.5602013
+        }],
+        "exits": [],
+        "distance": 0.693,
+        "travelTime": null,
+        "businessHours": null,
+        "attributes": [],
+        "categories": [{
+            "id": null,
+            "vehicleCategoryId": 20030,
+            "hierarchy": [],
+            "realTimeCategoryId": null,
+            "providerCategories": []
+        }],
+        "details": {
+            "parking": null,
+            "refueling": null,
+            "charging": null,
+            "dealer": null,
+            "online": {
+                "isPOI": true,
+                "chainIds": [],
+                "vicinity": "중구 퇴계로 100",
+                "contacts": [],
+                "reviewSummary": null,
+                "reviews": []
+            },
+            "phonemes": null,
+            "common": null,
+            "childrenPois": []
+        }
+    },
+    {
+        "provider": "SKT",
+        "providerId": "99",
+        "providerPOIid": "276u284p-16fb6da81d0d46c38765f11682972249",
+        "id": -1,
+        "name": "BMW 부산서비스센터",
+        "address": {
+            "street": "수영구 광안2동 광남로 BMW 부산서비스센터",
+            "intersectingStreets": [],
+            "houseNumber": null,
+            "postalCode": "80805",
+            "city": "부산시",
+            "country": "대한민국",
+            "countryCode": "KR",
+            "region": "부산광역시",
+            "regionCode": null,
+            "settlement": null
+        },
+        "latitude": 126.980744,
+        "longitude": 37.5602013,
+        "entrances": [{
+            "name": null,
+            "clearance": null,
+            "latitude": 126.980744,
+            "longitude": 37.5602013
+        }],
+        "exits": [],
+        "distance": 0.693,
+        "travelTime": null,
+        "businessHours": null,
+        "attributes": [],
+        "categories": [{
+            "id": null,
+            "vehicleCategoryId": 20030,
+            "hierarchy": [],
+            "realTimeCategoryId": null,
+            "providerCategories": []
+        }],
+        "details": {
+            "parking": null,
+            "refueling": null,
+            "charging": null,
+            "dealer": null,
+            "online": {
+                "isPOI": true,
+                "chainIds": [],
+                "vicinity": "중구 퇴계로 100",
+                "contacts": [],
+                "reviewSummary": null,
+                "reviews": []
+            },
+            "phonemes": null,
+            "common": null,
+            "childrenPois": []
+        }
+    }
+]
